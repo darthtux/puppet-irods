@@ -20,7 +20,7 @@ class irods::globals (
   $use_ssl                           = false,
   $ssl_certificate_chain_file_source = '',
   $ssl_certificate_key_file_source   = '',
-  $core_version                      = '4.2.0',
+  $core_version                      = '4.2.6-1',
   $install_dev_pkgs                  = true,
 ) {
 
